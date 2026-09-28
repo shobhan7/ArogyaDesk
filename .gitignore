@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+.env
+.idea/
+.vscode/
+measured-results.json
+_extract_old_report.txt
+_extract_template.txt
+tools/
+report/figures/
+.DS_Store
